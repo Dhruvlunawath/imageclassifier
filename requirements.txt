@@ -1,3 +1,4 @@
-streamlit
-opencv-python
+python=3.9
 libgl1-mesa-glx
+streamlit
+opencv-python-headless
